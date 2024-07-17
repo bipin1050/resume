@@ -109,7 +109,9 @@ const Resume = () => {
               <h3 className="text-base font-bold">Mach Records</h3>
               <h3>May 2024 - Present</h3>
             </div>
-            <p className="text-sm font-bold">Fullstack Developer</p>
+            <p className="text-sm font-bold">
+              Fullstack Developer <i className="font-normal">(Part time)</i>
+            </p>
             <p className="text-sm">
               Build and deployed company web application (
               <b>React, Django, PostgreSQL, Nginx, AWS </b>)
@@ -122,7 +124,9 @@ const Resume = () => {
               </h3>
               <h3>July 2023 - June 2024</h3>
             </div>
-            <p className="text-sm font-bold">Fullstack Developer</p>
+            <p className="text-sm font-bold">
+              Fullstack Developer <i className="font-normal">(Full time)</i>
+            </p>
             <p className="text-sm">
               Worked as a fullstack web developer (
               <b>React, Django, PostgreSQL</b>)
